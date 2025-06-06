@@ -27,7 +27,7 @@ Run:
 yarn native
 
 Demo:
-![Slideshow Demo](demo.gif)
+![Slideshow Demo](demo1.gif)
 
 
 
